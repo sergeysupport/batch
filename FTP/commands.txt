@@ -1,0 +1,7 @@
+open ENTER FTP IP
+USER login pass
+lcd "C:\ENTER PATH"
+cd /ENTER PATH
+get FILENAME
+quit
+
